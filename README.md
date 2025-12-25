@@ -20,6 +20,9 @@
 <h1 align="center">Hi 🐺, It's Kaya KGS</h1>
 <h3 align="center">Aspiring software developer learning by building projects and solving problems. Curious about how things work under the hood.🚀</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 - 🌱 I’m currently learning **dvanced React, Vue 3, ML, and modern frontend workflows**
 
 - 🤝 I’m looking for help with **Improving animations and performance.**
