@@ -24,8 +24,6 @@
 
 - 🤝 I’m looking for help with **Improving animations and performance.**
 
-- 📫 How to reach me **kayagodfrey311@gmail.com**
-
 - ⚡ Fun fact **I think I’m funny 😄**
   
 <h3 align="left">Languages and Tools:</h3>
